@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+div {
+    width: 400px;
+    height: 50%;
+    margin-left: 37%;
+    text-align: center;
+}
+
+.img-vasco {
+    width: 100%;
+    border: 5px solid white;
+    margin-top: 50px;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", system-ui;
+}
+
+p {
+    color: white;
+}
