@@ -1,4 +1,4 @@
-# The Complete 2024 Web Development Bootcamp
+# The Complete Web Development Bootcamp
 
 Curso feito na Udemy com a instrutora Dr. Angela Yu
 
