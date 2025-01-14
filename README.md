@@ -20,4 +20,11 @@ Curso feito na Udemy com a instrutora Dr. Angela Yu
 
 ## Exercícios
 
-> Colocarei a explicação de cada exercício em breve.
+> [!NOTE]
+> CADA SEÇÃO TEM UM PROJETO FINAL, ELES FICARAM EM NEGRITO.
+
+Seção 2: Introdução ao HTML
+- 2.1 Heading Element
+- 2.2 Paragraph Element
+- 2.3 Void Element
+- **2.4 Movie Rank Project**
