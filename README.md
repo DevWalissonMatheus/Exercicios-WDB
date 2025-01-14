@@ -28,3 +28,15 @@ Seção 2: Introdução ao HTML
 - 2.2 Paragraph Element
 - 2.3 Void Element
 - **2.4 Movie Rank Project**
+
+Seção 3: Intermediate HTML
+- 3.0 List Elements
+- 3.1 Nesting and Indentation
+- 3.2 Anchor Elements
+- 3.3 Image Elements
+- **3.4 Birthday Invite Project**
+
+Seção 4: Multi-Page Websites
+- 4.0 File Paths
+- 4.1 Webpages
+- **4.3 HTML Porfolio Project**
