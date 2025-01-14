@@ -49,4 +49,16 @@ Seção 5: Introduction to CSS
 Seção 6: CSS Properties
 - 6.0 CSS Colors
 - 6.3 CSS Box Model
-- 6.4 Motivation Meme Project
+- **6.4 Motivation Meme Project**
+
+Seção 7: Intermediate CSS
+- 7.0 CSS-Cascade
+- 7.1 Combining Selectors
+- 7.2 CSS Positioning
+- **7.3 CSS Flag Project**
+
+Seção 8: Advanced CSS
+- 8.0 CSS Display
+- 8.1 CSS Float
+- 8.3 Media Query
+- **8.4 Web Design Agency Project**
