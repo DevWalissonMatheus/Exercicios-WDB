@@ -23,7 +23,7 @@ Curso feito na Udemy com a instrutora Dr. Angela Yu
 > [!NOTE]
 > Cada seção tem um projeto final, que está destacado em **negrito**.
 
-Seção 2: Introdução ao HTML
+Seção 2: Introduction to HTML
 - 2.1 Heading Element
 - 2.2 Paragraph Element
 - 2.3 Void Element
