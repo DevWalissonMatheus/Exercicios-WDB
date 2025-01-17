@@ -65,4 +65,4 @@ Seção 8: Advanced CSS
 
 Seção 9: Flexbox
 - 9.0 Display Flex
--
+- 9.1 Flex Direction
