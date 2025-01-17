@@ -62,3 +62,7 @@ Seção 8: Advanced CSS
 - 8.1 CSS Float
 - 8.3 Media Query
 - **8.4 Web Design Agency Project**
+
+Seção 9: Flexbox
+- 9.0 Display Flex
+-
