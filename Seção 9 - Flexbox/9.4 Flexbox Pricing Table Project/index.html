@@ -11,10 +11,13 @@
     <style>
       body {
         font-family: "Sono", sans-serif;
+        background-color: #DEE5D4;
       }
 
-      li {
+      ul {
         list-style-type: none;
+        margin: 0 5px;
+        padding: 0;
       }
 
       .pricing-container {
@@ -25,11 +28,49 @@
       }
 
       .pricing-plan {
-        background-color: #FBFBFB;
-        border: 5px solid #E8F9FF;
-        flex-basis: 40vh;
+        flex-direction: column;
+        background-color: #E8F9FF;
+        border: 5px solid #C4D9FF;
+        border-radius: 10px;
+        flex-basis: 45vh;
         justify-items: center;
         padding: 20px;
+        transition: 0.4s;
+      }
+
+      .pricing-plan:hover {
+        transform: scale(1.10);
+      }
+
+      .plan-title {
+        font-size: 1.4rem;
+      }
+
+      .plan-price {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+
+      .plan-features {
+        font-size: 1.1rem;
+      }
+
+      .plan-button {
+        padding: 3px;
+        font-size: 0.9rem;
+        font-weight: bold;
+        color: #F1F0E8;
+        background-color: #FA812F;
+        border-color: #F29F58;
+        border-radius: 5px;
+        width: 75px;
+        margin-top: 10px;
+        transition: 0.1s;
+      }
+
+      .plan-button:hover {
+        transform: scale(1.05);
       }
 
       
@@ -39,34 +80,34 @@
   <body>
     <div class="pricing-container">
       <div class="pricing-plan">
-        <div class="plan-title">Basic</div>
-        <div class="plan-price">$9.99/month</div>
+        <div class="plan-title">Básico</div>
+        <div class="plan-price">R$9.99/mês</div>
         <ul class="plan-features">
-          <li>✅ 10GB Storage</li>
-          <li>✅ 1 User</li>
-          <li>🚫 Support</li>
+          <li>✅ 10GB Espaço</li>
+          <li>✅ 1 Usuários</li>
+          <li>🚫 Suporte</li>
         </ul>
-        <button class="plan-button">Sign Up</button>
+        <button class="plan-button">Assinar</button>
       </div>
       <div class="pricing-plan">
-        <div class="plan-title">Standard</div>
-        <div class="plan-price">$19.99/month</div>
+        <div class="plan-title">Padrão</div>
+        <div class="plan-price">R$19.99/mês</div>
         <ul class="plan-features">
-          <li>✅ 50GB Storage</li>
-          <li>✅ 5 Users</li>
-          <li>✅ Phone &amp; Email Support</li>
+          <li>✅ 50GB Espaço</li>
+          <li>✅ 5 Usuários</li>
+          <li>✅ Phone &amp; Email Suporte</li>
         </ul>
-        <button class="plan-button">Sign Up</button>
+        <button class="plan-button">Assinar</button>
       </div>
       <div class="pricing-plan">
         <div class="plan-title">Premium</div>
-        <div class="plan-price">$49.99/month</div>
+        <div class="plan-price">R$49.99/mês</div>
         <ul class="plan-features">
-          <li>✅ 100GB Storage</li>
-          <li>✅ 10 Users</li>
-          <li>✅ 24/7 Support</li>
+          <li>✅ 100GB Espaço</li>
+          <li>✅ 10 Usuários</li>
+          <li>✅ 24/7 Suporte</li>
         </ul>
-        <button class="plan-button">Sign Up</button>
+        <button class="plan-button">Assinar</button>
       </div>
     </div>
   </body>
