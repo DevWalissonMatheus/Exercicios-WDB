@@ -4,9 +4,27 @@
 <head>
   <title>Chessboard</title>
   <style>
-    /* Write your code here */
-    /* Each square should be 100px by 100px */
-    /* My colours for white: #f0d9b5, black: #b58863 */
+    body {
+      display: flex;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      grid-template-rows: repeat(8, 1fr);
+      justify-items: stretch;
+    }
+
+    .white {
+      background-color: #f0d9b5;
+      width: 80px;
+      height: 80px;
+    }
+
+    .black {
+      background-color: #b58863;
+      width: 80px;
+      height: 80px;
+    }
   </style>
 </head>
 
